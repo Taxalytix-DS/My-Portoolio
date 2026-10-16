@@ -16,8 +16,8 @@ This space is dedicated to transforming complex raw data into structured busines
 
 ## Tools & Methodologies
 
-* **Data & Business Intelligence:** Microsoft Excel (Advanced Formulas, Power Query, Power Pivot, Dynamic Pivot Tables), Google Sheets.
-* **Workflow & Documentation:** Data Pipeline Structuring, Agile & Scrum Fundamentals, Process Mapping, Technical Documentation.
+* **Data & Business Intelligence: Microsoft Excel (Advanced Formulas, Power Query, Power Pivot, Dynamic Pivot Tables), Google Sheets.
+* **Workflow & Documentation: Data Pipeline Structuring, Agile & Scrum Fundamentals, Process Mapping, Technical Documentation.
 
 ---
 
